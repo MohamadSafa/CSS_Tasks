@@ -1,0 +1,32 @@
+body{background-color: white;}
+header{
+    width: 50%;
+    height: 200px;
+    background-color: white;
+    text-align: center;} 
+
+  .title {
+     text-indent: 80px;
+     font-size: 45px;
+     font-family: 'Times New Roman', Times, serif;
+     color: black;}
+
+  .headline {
+    text-indent: 10px;
+    font-size: 38px;
+  }
+
+img{
+  border-radius: 8px;
+  width: 450px;
+  margin: 15px;
+}
+
+ul {margin: 25px;}
+ol {margin: 25px;}
+    p{
+        text-indent: 70px;
+        font-style: italic;
+        font-size: medium;
+    }
+

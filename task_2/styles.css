@@ -1,0 +1,37 @@
+header {
+  background-color: rgb(59, 59, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+  display: inline;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: 20px;
+}
+
+nav a {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+
+main {
+  padding-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  background-color: rgb(59, 59, 255);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 1px;
+}
